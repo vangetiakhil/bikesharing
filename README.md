@@ -1,4 +1,3 @@
-# Linear-Regression-Bike-Sharing-Assignment
 # Bike Demand Prediction using Linear Regression
 
 ## Overview
